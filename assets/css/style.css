@@ -1,0 +1,8 @@
+/* do web có cơ chế lưu cache css và js , nên có 1 số trường hợp khi thay đổi code sẽ không nhận nên cần xóa cache trình duyệt bằng 'ctrl+shift+R'*/
+.header{
+    background-color: rgb(248, 199, 179);
+}
+.footer{
+    background: dimgray;
+    color: rgb(233, 233, 233);
+}
